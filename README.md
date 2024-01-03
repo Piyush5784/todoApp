@@ -1,7 +1,7 @@
 
 # MERN Todo App
 
-A simple Todo application built using the MERN (MongoDB, Express.js, React, Node.js) stack. Users can create, edit, update, and delete(CRUD) their todo lists.
+A simple Todo application built using the MERN (MongoDB, Express.js, React, Node.js) stack. Users can create, edit, update, and delete(CRUD) their todo lists.Used Tailwind for Styling,responsive design.
 
 ## Table of Contents
 - [Features](#features)
