@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 const { create, update, read, deleteTodo } = require("./methods");
 const cors = require("cors")
 
-mongoose.connect("mongodb+srv://admin:kMcogUadxGW1HKme@cluster0.pr5l8do.mongodb.net/TodoList").then(() => {
+mongoose.connect("mongodb+srv://(your Id):(your password)cluster0.pr5l8do.mongodb.net/TodoList").then(() => {
     console.log("Connected to DB")
     app.listen(port, () => {
         console.log("Server Started")
